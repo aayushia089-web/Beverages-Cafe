@@ -202,7 +202,7 @@ Java Developer | Spring Boot Developer
 
 LinkedIn: https://www.linkedin.com/in/aayushi-aayushi-347144322
 
-GitHub: https://github.com/aayush
+GitHub:https://github.com/aayushia089-web
 
 ---
 
